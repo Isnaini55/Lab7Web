@@ -69,6 +69,7 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 </html>
 ~~~
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
+
 ![PHP DASAR](https://user-images.githubusercontent.com/81541764/118312301-533a3480-b51b-11eb-86c9-18efea0b7e3f.JPG
 
 ## Variable PHP
