@@ -70,7 +70,8 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ~~~
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
 
-![PHP DASAR](https://user-images.githubusercontent.com/81541764/118312301-533a3480-b51b-11eb-86c9-18efea0b7e3f.JPG
+![PHP DASAR](https://user-images.githubusercontent.com/81541764/118318608-cf387a80-b523-11eb-8bf2-429543445fb9.JPG)
+
 
 ## Variable PHP
 Menambahkan variable pada program.
@@ -83,8 +84,8 @@ Menambahkan variable pada program.
         echo 'Selamat Datang ' . $_GET['nama'];
     ?>
 ~~~
-Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan2.php?nama=Isnaini
-![Predefine Variable $_GET](https://user-images.githubusercontent.com/81541764/118315886-4cfa8700-b520-11eb-9905-db268749ad2c.JPG)
+![Predefine Variable $_GET](https://user-images.githubusercontent.com/81541764/118318565-c47de580-b523-11eb-8e9c-ba6752e6278f.JPG)
+
 
 ## Membuat Form Input
 ~~~
